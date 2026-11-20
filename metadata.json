@@ -1,0 +1,6 @@
+{
+  "name": "DZ Cast",
+  "description": "تطبيق جزائري خالٍ من الإعلانات لبث فيديوهات الويب والوسائط المحلية ومشاركة شاشة الهاتف بجودات متعددة بتصميم زجاجي حديث.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

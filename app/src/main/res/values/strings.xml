@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">DZ Cast</string>
+    <string name="app_tagline">أول مشروع جزائري لبث الويب والشاشة بدون إعلانات</string>
+    <string name="nav_browser">المتصفح</string>
+    <string name="nav_mirror">بث الشاشة</string>
+    <string name="nav_devices">الأجهزة</string>
+    <string name="nav_library">المكتبة</string>
+
+    <string name="browser_url_hint">أدخل رابط موقع أو ابحث عن فيديو…</string>
+    <string name="browser_adblock_active">مانع الإعلانات مفعّل</string>
+    <string name="browser_detected_videos">الفيديوهات المكتشفة</string>
+    <string name="browser_no_videos_yet">تصفح أي موقع وشغّل الفيديو لالتقاط رابط البث تلقائياً</string>
+    <string name="browser_scan_page">فحص الصفحة</string>
+
+    <string name="mirror_title">استوديو بث الشاشة</string>
+    <string name="mirror_subtitle">شارك شاشة هاتفك على التلفاز أو المتصفح بدقة قابلة للتخصيص</string>
+    <string name="mirror_start">بدء بث الشاشة</string>
+    <string name="mirror_stop">إيقاف البث</string>
+    <string name="mirror_live_badge">بث مباشر</string>
+    <string name="mirror_ready_badge">جاهز للبث</string>
+    <string name="mirror_quality_resolution">الدقة</string>
+    <string name="mirror_quality_fps">معدل الإطارات</string>
+    <string name="mirror_quality_compression">جودة الصورة والضغط</string>
+    <string name="mirror_receiver_url">رابط المستقبل على الشبكة</string>
+    <string name="mirror_copy_link">نسخ الرابط</string>
+    <string name="mirror_share_link">مشاركة</string>
+
+    <string name="devices_title">الأجهزة والوسائط</string>
+    <string name="devices_scan_wifi">البحث عن أجهزة التلفاز</string>
+    <string name="devices_scanning">جارٍ مسح شبكة الواي فاي…</string>
+    <string name="devices_local_media">بث وسائط من الهاتف</string>
+    <string name="devices_direct_url">بث رابط مباشر أو IPTV</string>
+    <string name="devices_pick_video">اختر فيديو من الهاتف</string>
+    <string name="devices_pick_file">اختر ملف وسائط</string>
+    <string name="devices_cast_now">بث الآن</string>
+
+    <string name="library_title">المكتبة والإعدادات</string>
+    <string name="library_bookmarks">المواقع المحفوظة</string>
+    <string name="library_history">سجل البث</string>
+    <string name="library_settings">مظهر الزجاج والإعدادات</string>
+    <string name="library_theme_label">نمط الألوان الزجاجية</string>
+    <string name="library_about_dz">صُنع بفخر في الجزائر • خالٍ تماماً من الإعلانات</string>
+
+    <string name="notification_channel_mirror">بث شاشة DZ Cast</string>
+    <string name="notification_mirror_title">DZ Cast يبث شاشة الهاتف الآن</string>
+    <string name="notification_mirror_content">البث المباشر نشط عبر الشبكة المحلية</string>
+</resources>
